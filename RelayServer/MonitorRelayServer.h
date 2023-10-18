@@ -6,7 +6,7 @@
 
 using namespace std;
 
-namespace server_baby
+namespace MyNetwork
 {
     class MonitorRelayServer_CS_Stub;
     class MonitorRelayServer_SC_Proxy;

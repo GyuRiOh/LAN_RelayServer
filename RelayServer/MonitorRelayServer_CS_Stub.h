@@ -4,7 +4,7 @@
 #include "MonitorRelayServer_SC_Proxy.h"
 #include "MonitorRelayServer.h"
 
-namespace server_baby
+namespace MyNetwork
 {
 	constexpr int SERVER_CODE = 7;
 	class MonitorRelayServer_CS_Stub

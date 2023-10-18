@@ -5,7 +5,7 @@
 #include "../NetRoot/NetServer/NetPacket.h"
 #include "MonitorRelayServer.h"
 
-namespace server_baby
+namespace MyNetwork
 {
 	class MonitorRelayServer_SC_Proxy
 	{
